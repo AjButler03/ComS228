@@ -1,0 +1,3 @@
+This txt file exists to see if the code I wrote for homework 4 correctly handles a file with incorect format.
+We'll see, I guess.
+Here's a third line, since this could happen in a proper file.

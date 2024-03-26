@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;hw01/src/hw01&apos;&#x0D;&#x0A;- Original project: &apos;hw01&apos;&#x0D;&#x0A;- Destination element: &apos;hw01/src/hw01&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     State.java&#x0D;&#x0A;     TownCell.java&#x0D;&#x0A;     ISPBusiness.java&#x0D;&#x0A;     Town.java" description="Copy compilation units" destination="/src&lt;hw01" element1="/src&lt;{State.java" element2="/src&lt;{TownCell.java" element3="/src&lt;{ISPBusiness.java" element4="/src&lt;{Town.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1694043105380" units="4" version="1.0"/>
+</session>

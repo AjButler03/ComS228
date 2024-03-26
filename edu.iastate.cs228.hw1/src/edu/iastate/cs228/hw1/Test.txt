@@ -1,0 +1,7 @@
+6 21
+O O O E E E C C C C C C E C E C C C O R E
+O R O E R E C R C C E C C E C C C C R C R
+O O O E E E C C C C C C E C E C C C E R O
+R O R C C C C C C C C C O R E O C O C C C
+E C E E C E C O C C S C R S R C S C E S E
+R O R C C C C C C C C C E R O O C O C C C
